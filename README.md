@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- This Will change in the future-->
 
-<!--
-**FcoGonz/FcoGonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Francisco!
 
-Here are some ideas to get you started:
+🧑🏻‍💻Front end Engineer student<br/>
+🎓Student at Codecademy<br/>
+✍🏻Currently learning REACT<br/>
+🤝Looking to collaborate on any type of project that will help me improve<br/>
+🇩🇴Dominican
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- My Github Stats -->
+
+[![FcoGonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcogonz&count_private=true&show_icons=true&theme=dark&hide_rank=false)
+](https://github.com/fcogonz/github-readme-stats)
